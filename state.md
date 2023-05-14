@@ -10,3 +10,17 @@ DEV_STATE=true
 这里是 1.4 的内容
 
 这里是 v1.6.2rc 的内容
+
+beta 内容:
+删除本地的 tag:
+
+```bash
+git tag -d <tag>
+```
+
+删除远程的 tag:
+
+```sh
+git push origin :<tag>
+git push origin -d <tag>
+```
