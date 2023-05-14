@@ -10,3 +10,13 @@ DEV_STATE=true
 这里是 1.4 的内容
 
 这里是 v1.6.2rc 的内容
+
+janfaenfonea
+
+```js
+function add(a: string, b: string): string {
+  return a.concat(b);
+}
+```
+
+const add = (a:number,b:number):string => String(a)+String(b)
