@@ -4,4 +4,8 @@ void main(){
 
    // B
   void B() {}
+
+
+
+  void C() {}
 }
