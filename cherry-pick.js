@@ -1,1 +1,1 @@
-export const list = [1]
+export const list = [1, 2]
