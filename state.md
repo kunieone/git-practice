@@ -24,3 +24,5 @@ git tag -d <tag>
 git push origin :<tag>
 git push origin -d <tag>
 ```
+
+提一个fix
